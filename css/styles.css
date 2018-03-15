@@ -1,0 +1,49 @@
+body
+    {background-color: white;
+    background-image: url(../img/widgetbg.png);
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;}
+
+h1
+    {margin-left: 2.5em;
+    font-size: 3em;
+    color: black;}
+
+.list-box
+    {padding-top: 10em;
+    padding-left: 1em;}
+
+.add-item
+    {padding-left: 3em;
+    font-size: 2em;}
+
+input
+    {padding: 0.2em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;}
+
+button
+    {font-size: 1.5em;
+    color: white;
+    background-color: #013d59;
+    border: none;
+    border-radius: 5px;}
+
+ul
+    {font-size: 1.5em;
+    font-weight: bold;
+    list-style-type: circle;}
+
+.feedback
+    {padding-left: 4em;
+    font-size: 1.5em;}
+
+footer
+    {position: fixed;
+    bottom: 1em;
+    left: 11em;}
+
+.icons
+    {width: 1.5em;
+    height: auto;}
